@@ -1,0 +1,13 @@
+{
+    "prefix": ".",
+    "token": "ODYxMjU5MDc1NDU1NDE4NDE5.YOHMBQ.k8XVf7RnUWsfF6kotG3dua1fdZc",
+    "mongoose": "mongodb+srv://armsbotdb:davodav2@armsbotdb.h5tbf.mongodb.net/myFirstDatabase?retryWrites=true&w=majorityl",
+    "emoji": {
+        "play": "▶️",
+        "stop": "⏹️",
+        "queue": "📜",
+        "success": "✔️",
+        "repeat": "🔁",
+        "error": "❌"
+    }
+}
